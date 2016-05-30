@@ -16,6 +16,9 @@ Ein neues Projekt erstellen und direkt loslegen!
 
 Optional:
 -Die bereits in der Engine enthaltenen Basisprojekte nutzen. Dadurch muss man sich nicht um die Steuerung oder die Kamera kümmern.
+
 -Die Video Tutorials schauen. Sie sind sehr ausführlich und geben einen guten Start mit der Engine: https://docs.unrealengine.com/latest/INT/Videos/
+
 -Die Unreal Dokumentation lesen falls etwas unklar ist: https://docs.unrealengine.com/latest/INT/
+
 -Im Unreal Marketplace bereits fertige Modelle oder Level kaufen.
